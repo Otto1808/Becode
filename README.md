@@ -26,7 +26,7 @@ réparer ma machine. Puis peu à peu, j'ai pu dépanner des proches à résoudre
 console.log('Hello World'); 
 ``` 
 
-
+--------------------------------
 | Birthday:  | 18/08/99   |
 | Favorite color:  | Lilas  |
 | Favorite food:  |  Lasagnes  |
@@ -47,5 +47,7 @@ Pinneapple on pizza: Yes/No ?
 j'ai souvent voyager en Europe mais depuis quelques années, je pars rejoindre des amies en Suisse, pour l'instant ça reste mes meilleure vacances, l'ambiance est incroyable mais surtout le paysage qui est magnifique entre montagnes, lacs et villes.
 
 ![](https://i.ytimg.com/vi/udI_BpHBx-U/maxresdefault.jpg)
+
+[Pauline](https://github.com/PaulineNvle/markdown-challenge)| [Robin](https://github.com/RobinThijsen/markdown-challenge)
 
 
