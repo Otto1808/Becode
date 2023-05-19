@@ -3,7 +3,7 @@
 # Présentation #
 <div align="justify"> Je vais commencer par me présenter, Je m'appelle Pietro, 
 j'ai actuellement 23 ans même si je sais que je fais plus vieux 
-avec **ma barbe**, je suis né en Belgique mais aussi je suis d'origine Italienne. Plus bas, je vais vous parler de mes passions, de ce que
+avec ma barbe, je suis né en Belgique mais aussi je suis d'origine Italienne. Plus bas, je vais vous parler de mes passions, de ce que
 j'aime mais aussi de mes vacances. </div>
 
 # Passions #
