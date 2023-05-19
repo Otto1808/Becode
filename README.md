@@ -42,6 +42,7 @@ Pinneapple on pizza: Yes/No ?
 <div align="justify">J'adore tout ce qu'est lié au Japon, leurs histoires, la pop culture, leurs ***mangas et animés***. J'aimerais y aller un jour, pour visiter les monuments mais aussi pour essayer la vrai nourriture Japonaise. </div>
 
 ![](https://content.r9cdn.net/rimg/dimg/6d/f6/e7830ae3-hood-216858-16635d56a51.jpg?width=1366&height=768&xhint=1413&yhint=1103&crop=true)
+*C'est au moment de rendre son dernier souffle, qu'un homme comprend ce qu'il était réellement* 
 
 ## Vacances ##
 j'ai souvent voyager en Europe mais depuis quelques années, je pars rejoindre des amies en Suisse, pour l'instant ça reste mes meilleure vacances, l'ambiance est incroyable mais surtout le paysage qui est magnifique entre montagnes, lacs et villes.
