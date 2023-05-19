@@ -25,7 +25,7 @@ réparer ma machine. Puis peu à peu, j'ai pu dépanner des proches à résoudre
 //the hello world program
 console.log('Hello World'); 
 ``` 
-
+|MOI PAS SAVOIR | LUI NON PLUS |
 --------------------------------
 | Birthday:  | 18/08/99   |
 | Favorite color:  | Lilas  |
